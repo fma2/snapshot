@@ -41,3 +41,9 @@ gem 'spring',        group: :development
 
 gem 'rails_12factor', group: :production
 
+gem 'foundation-rails'
+
+group :development do
+  gem 'rails_layout'
+end
+
